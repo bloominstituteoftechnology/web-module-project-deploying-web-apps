@@ -23,7 +23,7 @@ After you have figured out which project you want to deploy, sign up for an acco
 
 ### Task 3: Stretch Problems
 
-Do not attempt stretch problems until MVP has been reached and a final commit has been made.
+Do not attempt. stretch problems until MVP has been reached and a final commit has been made.
 
 Work on deploying a second, or even third portfolio project. If you have extra time, go back and update the styles, add features, fix bugs, etc, on all the sites so that they will look good for potential employers.
 
