@@ -1,5 +1,11 @@
 # Module Project: Deploying Web Apps - Portfolio Piece
 
+# Edit:
+
+![bitz](./bitz.PNG)
+
+[stackblitz](https://stackblitz.com/edit/lambda-vercel?file=pages/index.js)
+
 ## Introduction
 
 In this module you will use what you've learned about deploying a web application, and deploy one of the apps you've built so that you can add it to your portfolio page
@@ -18,6 +24,13 @@ Follow these steps for completing your project.
 - [ ] Once you have finished, your TL will count the project as completed
 
 ### Task 2a: MVP
+
+# Lambda Vercel Deploy
+
+
+[Live Site](https://lambda-http-vercel-project.vercel.app/)
+
+
 
 After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your porfolio site. Finally, work on updating this project so that it is polished and bug free! Good luck!
 
