@@ -12,7 +12,7 @@ Think about which project you are most proud of up to this point that you have b
 
 Follow these steps for completing your project.
 
-- [ ] Send your team lead the link to your web app 
+- [] Send your team lead the link to your web app 
 - [ ] Show them that it has been added to your portfolio
 - [ ] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with Vercel ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
 - [ ] Once you have finished, your TL will count the project as completed
