@@ -19,7 +19,9 @@ Follow these steps for completing your project.
 
 ### Task 2a: MVP
 
-After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your porfolio site. Finally, work on updating this project so that it is polished and bug free! Good luck!
+After you have figured out which project you want to deploy, sign up for an account with Vercel and start the deployment process as outlined in training kit for this module. Once the project is deployed, you will add it to your porfolio site. Finally, work on updating this project so that it is polished and bug free! 
+
+Submit the link to your hosted project in canvas. Good luck!
 
 ### Task 3: Stretch Problems
 
