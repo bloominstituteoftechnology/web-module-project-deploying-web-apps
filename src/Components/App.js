@@ -19,6 +19,8 @@ export default function App() {
   return (
     <div className="App">
       <h1>Branden's Portfolio Piece</h1>
+      <p>WHATS UP LITTLE B</p>
+      <p>Im actively making this website!!!</p>
     </div>
   );
 }
